@@ -6,6 +6,7 @@ Et samlet og responsivt robotcenter til Home Assistant. Kortet viser live status
 
 ## Funktioner
 
+- Robotvælger med lagdelte gradienter, dybde og fysisk trykfeedback
 - Automatisk skalerende robotvælger
 - Live status, batteri og fejlmarkering
 - Animation kun når robotten arbejder eller har fejl
